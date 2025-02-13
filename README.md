@@ -1,9 +1,9 @@
-# Readme_Individual
+![image](https://github.com/user-attachments/assets/6b53a9ec-62d4-4796-8a89-f1a072c2a196)# Readme_Individual
 E2P1_INVIDUAL_README PASOS DE LA CREACIÓN DEL PROYECTO Y REPOSITORIO RESUMEN DE LA METODOLOGÍA DE DESARROLLO DE SOFTWARE dentro del readme
 # Metodología Scrum
 
 Scrum es una metodología ágil de desarrollo de software que se basa en **iteraciones cortas** llamadas *sprints* para entregar productos de manera incremental y con alta calidad. Su objetivo es mejorar la eficiencia y adaptabilidad en proyectos complejos.
-![Diagrama de Scrum]("C:\Users\Felipe Zacarias\Downloads\descargar.jpg")
+![Diagrama de Scrum](https://th.bing.com/th/id/OIP.ouMQj_tvjWtPur2nFu7-ngHaFj?rs=1&pid=ImgDetMain)
 
 
 ## Principales Características de Scrum
