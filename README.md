@@ -3,6 +3,8 @@ E2P1_INVIDUAL_README PASOS DE LA CREACIÓN DEL PROYECTO Y REPOSITORIO RESUMEN DE
 # Metodología Scrum
 
 Scrum es una metodología ágil de desarrollo de software que se basa en **iteraciones cortas** llamadas *sprints* para entregar productos de manera incremental y con alta calidad. Su objetivo es mejorar la eficiencia y adaptabilidad en proyectos complejos.
+![Diagrama de Scrum]("C:\Users\Felipe Zacarias\Downloads\descargar.jpg")
+
 
 ## Principales Características de Scrum
 
